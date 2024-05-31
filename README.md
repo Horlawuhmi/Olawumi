@@ -3,7 +3,7 @@
 - 🌱 I've developed skills  in Power Bi, Excel, SQL, Python and Web analytics 
 - 💞️ I’m looking to collaborate on data analyzing gigs, contracts, full-time jobs and freelancing
 - 📫 How to reach me email:: skychristie114@gmail.com
-- 📫 Twitter::  https://x.com/DataEvang_.
+- 📫 Twitter::  https://x.com/DataEvang_ ..
 
 <!---
 Horlawuhmi/Horlawuhmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
