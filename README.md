@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Horlawuhmi
-- 👀 I’m interested in Business Intelligence Analysis
-- 🌱 I've developed skills  in Power Bi, Excel and SQL
-- 💞️ I’m looking to collaborate on data analyzing gigs, contracts and freelancing
+- 👀 I have experience in Business and Data Intelligence Analysis, Data Collection and Data Entry.
+- 🌱 I've developed skills  in Power Bi, Excel, SQL, Python and Web analytics 
+- 💞️ I’m looking to collaborate on data analyzing gigs, contracts, full-time jobs and freelancing
 - 📫 How to reach me email:: skychristie114@gmail.com
-- 📫 Twitter::  https://twitter.com/Favoritepuppy1
+- 📫 Twitter::  https://x.com/DataEvang_
 
 <!---
 Horlawuhmi/Horlawuhmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
