@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Horlawuhmi
+- 👋 Hi, I’m @Olawuumi
 - 👀 I have experience in Business and Data Intelligence Analysis, Data Collection and Data Entry.
 - 🌱 I've developed skills  in Power Bi, Excel, SQL, Python and Web analytics 
 - 💞️ I’m looking to collaborate on data analyzing gigs, contracts, full-time jobs and freelancing
